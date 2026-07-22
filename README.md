@@ -16,7 +16,7 @@ An Arduino microcontroller processes the sensor readings and generates the appro
 
 ## Demonstration Video
 <p align="center">
-  <video width="80%" controls>
+  <video width="40%" controls>
     <source src="docs/line_following_robot.mp4" type="video/mp4">
   </video>
 </p>
