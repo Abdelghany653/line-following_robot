@@ -15,7 +15,6 @@ An Arduino microcontroller processes the sensor readings and generates the appro
 
 ## Demonstration Video
 
-https://github.com/user-attachments/assets/9bcddfef-82fb-4b8c-ae80-bacb1e2a285d
 
 
 
