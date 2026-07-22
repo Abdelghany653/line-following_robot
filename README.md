@@ -8,7 +8,7 @@ An Arduino microcontroller processes the sensor readings and generates the appro
 ## Electrical System
 
 <p align="center">
-  <img src="docs/line_following_robot_electrical.png" alt="Electrical System" width="80%">
+  <img src="docs/line_following_robot_electrical.png" alt="Electrical System" width="40%">
 </p>
 
 
