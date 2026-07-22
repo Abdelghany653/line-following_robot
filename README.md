@@ -7,16 +7,19 @@ An Arduino microcontroller processes the sensor readings and generates the appro
 
 ## Electrical System
 
- <p align="center">
-  <img src="docs/line_following_electrical.png">
-  </p>
+<p align="center">
+  <img src="docs/line_following_electrical.png" alt="Electrical System" width="80%">
+</p>
 
 
 
 
 ## Demonstration Video
-
-docs/line_following_robot.mp4
+<p align="center">
+  <video width="80%" controls>
+    <source src="docs/line_following_robot.mp4" type="video/mp4">
+  </video>
+</p>
 
 
 
