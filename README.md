@@ -1,4 +1,4 @@
-# line-following_robot
+# line-following robot
 ---
 ## System Description
 The line-following robot is a differential-drive mobile robot designed to autonomously follow a predefined black line on a white floor. The chassis consists of two independently driven rear wheels powered by DC motors and one free-rotating caster wheel mounted at the front to provide balance and support. Differential steering is achieved by varying the speeds of the two drive motors, allowing the robot to move forward and make left or right turns without a steering mechanism.
