@@ -8,7 +8,7 @@ An Arduino microcontroller processes the sensor readings and generates the appro
 ## Electrical System
 
  <p align="center">
-  <img src="docs/electrical.png" alt="Image 1" width="80%">
+  <img src="docs/line_following_electrical.png" alt="Image 1" width="80%">
   </p>
 
 
@@ -16,12 +16,7 @@ An Arduino microcontroller processes the sensor readings and generates the appro
 
 ## Demonstration Video
 
-- ##### Watch the simulation of the project by clicking the button below.
-<p align="center">
-  <a href="https://veed.io/view/bcece7d0-a88b-4904-981a-6febc495781e">
-    <img src="https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge" alt="Watch Demo">
-  </a>
-</p>
+docs/line_following_robot.mp4
 
 
 
